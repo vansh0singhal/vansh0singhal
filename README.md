@@ -36,9 +36,9 @@
 
 
 <br><br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryannn03&label=Profile%20views&color=0e75b6&style=flat" alt="aryannn03" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vansh0singhal&label=Profile%20views&color=0e75b6&style=flat" alt="vansh0singhal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryannn03" alt="aryannn03" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vansh0singhal" alt="vansh0singhal" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vansh0singhal&show_icons=true&locale=en&layout=compact" alt="vansh0singhal" /></p>
 
