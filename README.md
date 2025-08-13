@@ -2,7 +2,7 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-🔭 I’m currently working on ForgeNet-Lab<br><br>🌱 I’m currently learning React, Node js and JavaScript<br>
+🔭 I’m currently working on Dev-Tinder<br><br>🌱 I’m currently learning React, Node js and JavaScript<br>
 
 <br>👨‍💻 All of my projects are available at [https://github.com/vansh0singhal](https://github.com/vansh0singhal)<br><br>📝 I regularly solving problems on [https://leetcode.com/u/vansh_singhal007/](https://leetcode.com/u/vansh_singhal007/)<br><br>💬 Ask me about Javascript, React and C++<br><br>📫 How to reach me vanshsinghal101@gmail.com<br><br>📄 Know about my experiences [https://www.linkedin.com/in/vansh-singhal-523347237/](https://www.linkedin.com/in/vansh-singhal-523347237/)
 
@@ -36,10 +36,10 @@
 
 <br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanshsharmacs&show_icons=true&locale=en&layout=compact" alt="vanshsharmacs" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vansh0singhal&show_icons=true&locale=en&layout=compact" alt="vansh0singhal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanshsharmacs&show_icons=true&locale=en" alt="vanshsharmacs" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vansh0singhal&show_icons=true&locale=en" alt="vansh0singhal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshsharmacs&" alt="vanshsharmacs" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vansh0singhal&" alt="vansh0singhal" /></p>
 
 ![Snake animation](https://github.com/vanshsharmaCS/vanshsharmaCS/blob/output/github-contribution-grid-snake-dark.svg)
