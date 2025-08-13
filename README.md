@@ -2,10 +2,6 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryannn03&label=Profile%20views&color=0e75b6&style=flat" alt="aryannn03" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryannn03" alt="aryannn03" /></a> </p>
-
 
 🔭 I’m currently working on Dev-Tinder<br><br>🌱 I’m currently learning React, Node js and JavaScript<br>
 
@@ -40,6 +36,9 @@
 
 
 <br><br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryannn03&label=Profile%20views&color=0e75b6&style=flat" alt="aryannn03" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryannn03" alt="aryannn03" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vansh0singhal&show_icons=true&locale=en&layout=compact" alt="vansh0singhal" /></p>
 
